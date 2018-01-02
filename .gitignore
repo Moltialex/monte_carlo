@@ -1,3 +1,6 @@
+# Cache
+*.swp
+
 # Prerequisites
 *.d
 
